@@ -2,6 +2,19 @@ import Navbar from "./Navbar";
 import Feed from "./Feed";
 import VideoDetails from "./VideoDetails";
 import ChannelDetails from "./ChannelDetails";
-import Search from "./SearchFeed";
-
-export { Navbar, Feed, VideoDetails, ChannelDetails, Search };
+import SearchFeed from "./SearchFeed";
+import Sidebar from "./Sidebar";
+import Videos from "./Videos";
+import VideoCard from "./VideoCard";
+import ChannelCard from "./ChannelCard";
+export {
+  Navbar,
+  Feed,
+  VideoDetails,
+  ChannelDetails,
+  SearchFeed,
+  Sidebar,
+  Videos,
+  VideoCard,
+  ChannelCard,
+};
